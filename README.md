@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mom0aut, a Lead Java Software Engineer</div>  
+### <div align="center">I'm Mom0aut, Lead Java Software Engineer</div>  
   
 
 - 🔭 I’m currently working on [Dynamic Relations](https://github.com/Mom0aut/DynamicRelations)  
