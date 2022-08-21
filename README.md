@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 
-### <div align="center">I'm Mom0aut, Lead Software Engineer</div>  
+<h1>I'm Mom0aut, Lead Software Engineer</h1>
+
+</div>  
   
 
 - 🔭 I’m currently working on [Dynamic Relations](https://github.com/Mom0aut/DynamicRelations)  
