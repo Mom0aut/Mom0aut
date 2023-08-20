@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Dynamic Relations](https://github.com/Mom0aut/DynamicRelations)  
   
 
-- 🌱 I’m wanna learn more about Astro  
+- 🌱 I’m wanna learn more about NextJs  
   
 
 - ❓ Ask me about anything related to Java/Spring and related technologies  
