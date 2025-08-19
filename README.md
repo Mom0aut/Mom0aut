@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 
-<h1>I'm Mom0aut, Senior Software Engineer, Tech Lead and Coding Artist</h1>
+<h1>I'm Mom0aut, <br>Senior Software Engineer <br> Tech Lead and Coding Artist</h1>
 
 </div>  
   
