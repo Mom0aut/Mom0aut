@@ -6,7 +6,7 @@
 </div>  
   
 
-- 🔭 I’m currently working on [Dynamic Relations](https://github.com/Mom0aut/DynamicRelations)  
+- 🔭 I’m currently working on [Dynamic Relations](https://github.com/Mom0aut/DynamicRelations) and [Ollama Vector](https://github.com/Mom0aut/OllamaVector)
   
 
 - 🌱 I’m wanna learn more about NextJs  
